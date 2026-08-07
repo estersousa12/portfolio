@@ -1,6 +1,6 @@
 # 🌐 Portfólio QA
 
-Portfólio profissional desenvolvido para apresentar minha atuação, conhecimentos e projetos na área de Quality Assurance.
+Portfólio profissional desenvolvido para apresentar minha experiência, competências e projetos na área de Quality Assurance.
 
 ## 🔗 Acessar
 
